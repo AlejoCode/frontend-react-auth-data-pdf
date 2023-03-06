@@ -1,0 +1,30 @@
+.wrapper {
+    height: auto;
+    padding-bottom: 50rem;
+}
+.login {
+    color: black;
+    background-color: rgb(238, 241, 243);
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+.toast-overlay {
+    position: fixed;
+    top: 15%;
+    left: 15%;
+    right: 0;
+    z-index: 9999;
+  }
+  .toast-overlay .toast-header {
+    justify-content: space-between;
+  }
+  
+  .toast-overlay .toast-header .close {
+    margin-top: -1rem;
+    margin-right: -1rem;
+  }
+
+  
+  
+  
+  

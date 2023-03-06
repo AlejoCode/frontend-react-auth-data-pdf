@@ -1,0 +1,11 @@
+.wrapper {
+
+}
+.dashboard {
+    
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(238, 241, 243);
+    margin-top: 2rem;
+    margin-bottom: 40rem;
+}

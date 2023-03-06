@@ -1,0 +1,99 @@
+.wrapper {
+
+}
+.inventory {
+
+    border-radius: 5px;
+    color: black;
+    background-color: rgb(238, 241, 243);
+    margin-top: 2rem;
+    margin-bottom: 40rem;
+    /* width: 45%; */
+    }
+.close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+  }
+  
+input[type="email"],
+input[type="text"],
+input[type="number"],
+.btnAdd {
+  display: block;
+  margin: 10px auto;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  width: 100%;
+  max-width: 300px;
+  font-size: 16px;
+}
+
+.btnAdd {
+  background-color: #4caf50;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btnGoToAdd {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border-radius: 5px;
+    border: 2px solid #ccc;
+    width: 100%;
+    max-width: 300px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .btnGoToAdd {
+    background-color: transparent;
+    color: rgb(132, 127, 127);
+    cursor: pointer;
+  }
+
+  .btnGoToPDF {
+    /* display: block; */
+    /* margin: 10px auto; */
+    /* padding: 5px; */
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    /* width: 100%; */
+    /* max-width: 300px; */
+    font-size: 16px;
+    font-weight: 500;
+  }
+  
+  .btnGoToPDF {
+    background-color: #5185da;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+
+  .generatePdf {
+    border-radius: 1.4%;
+  }
+
+  .toast-overlay {
+    position: fixed;
+    top: 15%;
+    left: 15%;
+    right: 0;
+    z-index: 9999;
+  }
+  .toast-overlay .toast-header {
+    justify-content: space-between;
+  }
+  
+  .toast-overlay .toast-header .close {
+    margin-top: -1rem;
+    margin-right: -1rem;
+  }
+
+  
